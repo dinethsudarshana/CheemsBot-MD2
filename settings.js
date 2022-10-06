@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
+global.owner = ['94769983151']
+global.premium = ['94769983151']
 global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
+global.ownername = 'dineth'
+global.botname = 'BLACK PANTHER MD V1'
+global.footer = 'BLACK PANTHER MD V1.'
 global.ig = 'https://github.com/DGXeon'
 global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
+global.sc = 'https://github.com/dinethsudarshana'
 global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.packname = 'BLACK PANTHER MD'
+global.author = 'BLACK PANTHER MD'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -40,9 +40,9 @@ global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    owner: ' බොට් අයිතිකරුට පමනී 🙂!',
+    group: 'Feature Used Only For Groups මෙම විශේෂාංගය භාවිත කල හැක්කෙ සමූහයෙ පමනි !',
+    private: 'Features Used Only For Private Chat !',
     bot: 'This Feature Is Only For Bot',
     wait: 'In Process...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
