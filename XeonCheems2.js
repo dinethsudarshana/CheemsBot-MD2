@@ -3527,7 +3527,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
 case 'allmenu': {
   	anu = `
-┏━「 *${botname}* 」━━⭓ 
+┏━「 *BLACK PANTHER-MD」━━⭓ 
 ┃╔═══════✪「 MAIN 」
 ┃╠ ${prefix}alive
 ┃╠ ${prefix}script
